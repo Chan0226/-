@@ -5,7 +5,7 @@
 
 https://user-images.githubusercontent.com/84282676/173240043-2ff98869-46a1-4073-ac40-d709fe250a13.mp4
 
-* 5월 9일 전국 휘발유 가격 히트맵
+* 5월 9일 전국 주유소 휘발유 가격 히트맵
 
 ![0509휘발유히트](https://user-images.githubusercontent.com/84282676/173240079-37511a10-c846-4350-a96c-bc6ebf7c0eb0.jpg)
 
