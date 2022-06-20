@@ -16,3 +16,7 @@ https://user-images.githubusercontent.com/84282676/173240043-2ff98869-46a1-4073-
 * 전국 평균 기름값 
 
 ![sasas](https://user-images.githubusercontent.com/84282676/173240470-e7e0128a-43a7-46aa-8fcd-7817e939b122.PNG)
+
+* 국제 유가 추이 차트
+![newplot](https://user-images.githubusercontent.com/84282676/174622450-bae4807d-73cf-4302-a1e7-0e550e215c7a.png)
+
