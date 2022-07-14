@@ -1,6 +1,10 @@
 # Data_Visualization
 유가 데이터 분석 및 시각화
 
+* 전국 주유소 현황 파이차트
+![다운로드](https://user-images.githubusercontent.com/84282676/178954947-a97c5164-5d38-441a-b8e9-35df6f40dd45.png)
+
+
 * 전국 휘발유 가격 추이 변화 애니메이션
 
 https://user-images.githubusercontent.com/84282676/173240043-2ff98869-46a1-4073-ac40-d709fe250a13.mp4
